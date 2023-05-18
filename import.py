@@ -1,4 +1,4 @@
-from import datetime*
+from import datetime
 from import asyncio*
 
 def remove_class(element, class_name):
